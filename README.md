@@ -1,3 +1,5 @@
 - Hi, I’m @nickcrepeau
 - Check out my [website](https://nickcrepeau.com/)!
 - Contact me at my [email](mailto:gmail@nickcrepeau.com)!
+- Find me on [LinkedIn](https://www.linkedin.com/in/nickcrepeau/)!
+- Download my [resume](https://drive.google.com/file/d/1rG3cFz6DWI_yUc-xwDPwuhkwe_LzhP9Y/view?usp=drive_link)!
